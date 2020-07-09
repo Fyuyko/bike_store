@@ -564,6 +564,7 @@ body {
 }
 
 .footer {
+  overflow: hidden;
   width: 100%;
   height: 31.25vh;
   background-color: #f7f7f7;
