@@ -1,3 +1,3 @@
 # bike_store.github.io
 
-Макет для обучающего верстке и ее адаптации к разным размерам окна браузера
+Learning to create a responsive website layout and how to use CSCC and BEM
